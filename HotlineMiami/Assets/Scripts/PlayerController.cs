@@ -33,7 +33,7 @@ public class PlayerController : MonoBehaviour
         if (Input.GetMouseButton(0) && Time.time > nextFire)
         {
             nextFire = Time.time + fireRate;
-            Fire();
+           
         }
     }
     void FixedUpdate()
@@ -41,13 +41,12 @@ public class PlayerController : MonoBehaviour
         rb.MovePosition(rb.position + moveVelocity * Time.fixedDeltaTime);
     }
 
-
-    void Fire()
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        /*bulletPos = transform.position;
-        bulletPos += new Vector2(+1f, 0f);
-        Instantiate(bullet, bulletPos, Quaternion.identity);*/
-
+        if (other.gameObject.tag == "Collectible")
+        {
+            GameManager.s_Singleton.AddCollectible();
+            Destroy(other.gameObject);
+        }
     }
-
 }
