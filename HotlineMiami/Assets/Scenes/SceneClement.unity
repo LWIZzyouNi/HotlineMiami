@@ -130,8 +130,8 @@ GameObject:
   m_Component:
   - component: {fileID: 200629212}
   - component: {fileID: 200629211}
-  - component: {fileID: 200629210}
   - component: {fileID: 200629213}
+  - component: {fileID: 200629214}
   m_Layer: 0
   m_Name: BadGuys
   m_TagString: Ennemy
@@ -139,26 +139,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &200629210
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 200629209}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bccf2171e3e01794fbbae1d21e730d10, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemName: Basic
-  itemType: 0
-  itemDescription: 
-  isInLife: 0
-  isKnocked: 0
-  maxLife: 100
-  actualLife: 0
-  ennemyChoose: {fileID: 11400000, guid: d6e1d82e39ab75a4dbbb3c32f52a9bc2, type: 2}
 --- !u!212 &200629211
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -248,6 +228,26 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.33, y: 2.33}
   m_EdgeRadius: 0
+--- !u!114 &200629214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 200629209}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1335e258ba9c4e74cbbccd7df93f97a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ennemyChoose: {fileID: 11400000, guid: d6e1d82e39ab75a4dbbb3c32f52a9bc2, type: 2}
+  itemName: 
+  itemType: 0
+  itemDescription: 
+  isInLife: 1
+  isKnocked: 0
+  maxLife: 100
+  actualLife: 0
 --- !u!1 &313965212
 GameObject:
   m_ObjectHideFlags: 0
