@@ -2,24 +2,31 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class EnnemyScript : Ennemy
+public class EnnemyScript : MonoBehaviour
 {
     public Ennemy ennemyChoose;
+    public string itemName;
+    public EnnemyType itemType;
+    public string itemDescription;
+    public bool isInLife;
+    public bool isKnocked;
+    public int maxLife;
+    public int actualLife;
 
     // Start is called before the first frame update
     void Start()
     {
-        ennemyChoose.actualLife = ennemyChoose.maxLife;
+        actualLife = maxLife;
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     public void TakeDamage(int a)
     {
-        ennemyChoose.actualLife -= a;
+        actualLife -= a;
     }
 }

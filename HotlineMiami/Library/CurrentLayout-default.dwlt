@@ -17,11 +17,11 @@ MonoBehaviour:
     x: 0
     y: 43
     width: 1920
-    height: 997
+    height: 1007
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 394}
+  m_MinSize: {x: 950, y: 522}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -44,7 +44,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1920
-    height: 997
+    height: 1007
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
@@ -85,7 +85,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 977
+    y: 987
     width: 1920
     height: 20
   m_MinSize: {x: 0, y: 0}
@@ -111,11 +111,11 @@ MonoBehaviour:
     x: 0
     y: 30
     width: 1920
-    height: 947
-  m_MinSize: {x: 681, y: 344}
-  m_MaxSize: {x: 12006, y: 8044}
+    height: 957
+  m_MinSize: {x: 711, y: 472}
+  m_MaxSize: {x: 18006, y: 14022}
   vertical: 0
-  controlID: 34
+  controlID: 52
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,11 +136,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1127
-    height: 947
+    height: 957
   m_MinSize: {x: 202, y: 322}
   m_MaxSize: {x: 4002, y: 8022}
   vertical: 1
-  controlID: 35
+  controlID: 53
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -159,7 +159,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 1127
-    height: 480
+    height: 485
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 13}
@@ -185,9 +185,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 480
+    y: 485
     width: 1127
-    height: 467
+    height: 472
   m_MinSize: {x: 202, y: 222}
   m_MaxSize: {x: 4002, y: 4022}
   m_ActualView: {fileID: 16}
@@ -217,11 +217,11 @@ MonoBehaviour:
     x: 1127
     y: 0
     width: 233
-    height: 947
-  m_MinSize: {x: 204, y: 344}
-  m_MaxSize: {x: 4004, y: 8044}
+    height: 957
+  m_MinSize: {x: 234, y: 472}
+  m_MaxSize: {x: 10004, y: 14022}
   vertical: 1
-  controlID: 78
+  controlID: 81
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -240,7 +240,7 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 233
-    height: 613
+    height: 619
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 19}
@@ -264,17 +264,17 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 613
+    y: 619
     width: 233
-    height: 334
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_ActualView: {fileID: 21}
+    height: 338
+  m_MinSize: {x: 234, y: 272}
+  m_MaxSize: {x: 10004, y: 10022}
+  m_ActualView: {fileID: 20}
   m_Panes:
   - {fileID: 20}
   - {fileID: 21}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -293,7 +293,7 @@ MonoBehaviour:
     x: 1360
     y: 0
     width: 560
-    height: 947
+    height: 957
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 22}
@@ -318,7 +318,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Game
-    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -326,7 +326,7 @@ MonoBehaviour:
     x: 0
     y: 73
     width: 1127
-    height: 461
+    height: 466
   m_ViewDataDictionary: {fileID: 0}
   m_VSyncEnabled: 0
   m_MaximizeOnPlay: 0
@@ -339,10 +339,10 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -394.5
-    m_HBaseRangeMax: 394.5
-    m_VBaseRangeMin: -222
-    m_VBaseRangeMax: 222
+    m_HBaseRangeMin: -399
+    m_HBaseRangeMax: 399
+    m_VBaseRangeMin: -224.5
+    m_VBaseRangeMax: 224.5
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -361,9 +361,9 @@ MonoBehaviour:
       x: 0
       y: 17
       width: 1127
-      height: 444
+      height: 449
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 563.5, y: 222}
+    m_Translation: {x: 563.5, y: 224.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -371,14 +371,14 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -563.5
-      y: -222
+      y: -224.5
       width: 1127
-      height: 444
+      height: 449
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1127, y: 461}
+  m_LastWindowPixelSize: {x: 1127, y: 466}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -654,7 +654,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.3.4
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
         m_AssetPath: Packages/com.unity.cinemachine
         m_Name: com.unity.cinemachine
         m_DisplayName: Cinemachine
@@ -684,6 +684,10 @@ MonoBehaviour:
           - 2.4.0-preview.3
           - 2.4.0-preview.4
           - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
           m_Compatible:
           - 2.3.3
           - 2.3.4
@@ -691,6 +695,10 @@ MonoBehaviour:
           - 2.4.0-preview.3
           - 2.4.0-preview.4
           - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -753,7 +761,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.3.4
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
         m_AssetPath: Packages/com.unity.cinemachine
         m_Name: com.unity.cinemachine
         m_DisplayName: Cinemachine
@@ -783,6 +791,10 @@ MonoBehaviour:
           - 2.4.0-preview.3
           - 2.4.0-preview.4
           - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
           m_Compatible:
           - 2.3.3
           - 2.3.4
@@ -790,6 +802,10 @@ MonoBehaviour:
           - 2.4.0-preview.3
           - 2.4.0-preview.4
           - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -852,7 +868,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.3.4
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
         m_AssetPath: Packages/com.unity.cinemachine
         m_Name: com.unity.cinemachine
         m_DisplayName: Cinemachine
@@ -882,6 +898,10 @@ MonoBehaviour:
           - 2.4.0-preview.3
           - 2.4.0-preview.4
           - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
           m_Compatible:
           - 2.3.3
           - 2.3.4
@@ -889,6 +909,10 @@ MonoBehaviour:
           - 2.4.0-preview.3
           - 2.4.0-preview.4
           - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -951,7 +975,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.3.4
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
         m_AssetPath: Packages/com.unity.cinemachine
         m_Name: com.unity.cinemachine
         m_DisplayName: Cinemachine
@@ -981,6 +1005,10 @@ MonoBehaviour:
           - 2.4.0-preview.3
           - 2.4.0-preview.4
           - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
           m_Compatible:
           - 2.3.3
           - 2.3.4
@@ -988,6 +1016,10 @@ MonoBehaviour:
           - 2.4.0-preview.3
           - 2.4.0-preview.4
           - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -1035,7 +1067,7 @@ MonoBehaviour:
         Package Manager."
       Category: cinematography
       State: 1
-      IsLatest: 1
+      IsLatest: 0
       Group: Packages
       Type: 
       Origin: 1
@@ -1050,7 +1082,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.3.4
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
         m_AssetPath: Packages/com.unity.cinemachine
         m_Name: com.unity.cinemachine
         m_DisplayName: Cinemachine
@@ -1080,6 +1112,10 @@ MonoBehaviour:
           - 2.4.0-preview.3
           - 2.4.0-preview.4
           - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
           m_Compatible:
           - 2.3.3
           - 2.3.4
@@ -1087,6 +1123,438 @@ MonoBehaviour:
           - 2.4.0-preview.3
           - 2.4.0-preview.4
           - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - camera
+        - follow
+        - rig
+        - fps
+        - cinematography
+        - aim
+        - orbit
+        - cutscene
+        - cinematic
+        - collision
+        - freelook
+        - cinemachine
+        - compose
+        - composition
+        - dolly
+        - track
+        - clearshot
+        - noise
+        - framing
+        - handheld
+        - lens
+        - impulse
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 636942204440000000
+      IsInstalled: 0
+    - Name: com.unity.cinemachine
+      DisplayName: Cinemachine
+      _Version: 2.4.0-preview.7
+      Description: "Smart camera tools for passionate creators. \n\nIMPORTANT NOTE:
+        If you are upgrading from the Asset Store version of Cinemachine, delete the
+        Cinemachine asset from your project BEFORE installing this version from the
+        Package Manager."
+      Category: cinematography
+      State: 1
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.cinemachine@2.3.4
+        m_IsDirectDependency: 1
+        m_Version: 2.3.4
+        m_Source: 1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
+        m_AssetPath: Packages/com.unity.cinemachine
+        m_Name: com.unity.cinemachine
+        m_DisplayName: Cinemachine
+        m_Category: cinematography
+        m_Type: 
+        m_Description: "Smart camera tools for passionate creators. \n\nIMPORTANT
+          NOTE: If you are upgrading from the Asset Store version of Cinemachine,
+          delete the Cinemachine asset from your project BEFORE installing this version
+          from the Package Manager."
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 2.1.11-beta.1
+          - 2.1.12
+          - 2.1.13
+          - 2.2.0
+          - 2.2.7
+          - 2.2.8
+          - 2.2.9
+          - 2.2.10-preview.3
+          - 2.2.10-preview.4
+          - 2.3.1
+          - 2.3.3
+          - 2.3.4
+          - 2.3.5-preview.3
+          - 2.4.0-preview.3
+          - 2.4.0-preview.4
+          - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
+          m_Compatible:
+          - 2.3.3
+          - 2.3.4
+          - 2.3.5-preview.3
+          - 2.4.0-preview.3
+          - 2.4.0-preview.4
+          - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - camera
+        - follow
+        - rig
+        - fps
+        - cinematography
+        - aim
+        - orbit
+        - cutscene
+        - cinematic
+        - collision
+        - freelook
+        - cinemachine
+        - compose
+        - composition
+        - dolly
+        - track
+        - clearshot
+        - noise
+        - framing
+        - handheld
+        - lens
+        - impulse
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 636942204440000000
+      IsInstalled: 0
+    - Name: com.unity.cinemachine
+      DisplayName: Cinemachine
+      _Version: 2.4.0-preview.8
+      Description: "Smart camera tools for passionate creators. \n\nIMPORTANT NOTE:
+        If you are upgrading from the Asset Store version of Cinemachine, delete the
+        Cinemachine asset from your project BEFORE installing this version from the
+        Package Manager."
+      Category: cinematography
+      State: 1
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.cinemachine@2.3.4
+        m_IsDirectDependency: 1
+        m_Version: 2.3.4
+        m_Source: 1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
+        m_AssetPath: Packages/com.unity.cinemachine
+        m_Name: com.unity.cinemachine
+        m_DisplayName: Cinemachine
+        m_Category: cinematography
+        m_Type: 
+        m_Description: "Smart camera tools for passionate creators. \n\nIMPORTANT
+          NOTE: If you are upgrading from the Asset Store version of Cinemachine,
+          delete the Cinemachine asset from your project BEFORE installing this version
+          from the Package Manager."
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 2.1.11-beta.1
+          - 2.1.12
+          - 2.1.13
+          - 2.2.0
+          - 2.2.7
+          - 2.2.8
+          - 2.2.9
+          - 2.2.10-preview.3
+          - 2.2.10-preview.4
+          - 2.3.1
+          - 2.3.3
+          - 2.3.4
+          - 2.3.5-preview.3
+          - 2.4.0-preview.3
+          - 2.4.0-preview.4
+          - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
+          m_Compatible:
+          - 2.3.3
+          - 2.3.4
+          - 2.3.5-preview.3
+          - 2.4.0-preview.3
+          - 2.4.0-preview.4
+          - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - camera
+        - follow
+        - rig
+        - fps
+        - cinematography
+        - aim
+        - orbit
+        - cutscene
+        - cinematic
+        - collision
+        - freelook
+        - cinemachine
+        - compose
+        - composition
+        - dolly
+        - track
+        - clearshot
+        - noise
+        - framing
+        - handheld
+        - lens
+        - impulse
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 636942204440000000
+      IsInstalled: 0
+    - Name: com.unity.cinemachine
+      DisplayName: Cinemachine
+      _Version: 2.4.0-preview.9
+      Description: "Smart camera tools for passionate creators. \n\nIMPORTANT NOTE:
+        If you are upgrading from the Asset Store version of Cinemachine, delete the
+        Cinemachine asset from your project BEFORE installing this version from the
+        Package Manager."
+      Category: cinematography
+      State: 1
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.cinemachine@2.3.4
+        m_IsDirectDependency: 1
+        m_Version: 2.3.4
+        m_Source: 1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
+        m_AssetPath: Packages/com.unity.cinemachine
+        m_Name: com.unity.cinemachine
+        m_DisplayName: Cinemachine
+        m_Category: cinematography
+        m_Type: 
+        m_Description: "Smart camera tools for passionate creators. \n\nIMPORTANT
+          NOTE: If you are upgrading from the Asset Store version of Cinemachine,
+          delete the Cinemachine asset from your project BEFORE installing this version
+          from the Package Manager."
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 2.1.11-beta.1
+          - 2.1.12
+          - 2.1.13
+          - 2.2.0
+          - 2.2.7
+          - 2.2.8
+          - 2.2.9
+          - 2.2.10-preview.3
+          - 2.2.10-preview.4
+          - 2.3.1
+          - 2.3.3
+          - 2.3.4
+          - 2.3.5-preview.3
+          - 2.4.0-preview.3
+          - 2.4.0-preview.4
+          - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
+          m_Compatible:
+          - 2.3.3
+          - 2.3.4
+          - 2.3.5-preview.3
+          - 2.4.0-preview.3
+          - 2.4.0-preview.4
+          - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
+          m_Recommended: 
+        m_Dependencies: []
+        m_ResolvedDependencies: []
+        m_Keywords:
+        - camera
+        - follow
+        - rig
+        - fps
+        - cinematography
+        - aim
+        - orbit
+        - cutscene
+        - cinematic
+        - collision
+        - freelook
+        - cinemachine
+        - compose
+        - composition
+        - dolly
+        - track
+        - clearshot
+        - noise
+        - framing
+        - handheld
+        - lens
+        - impulse
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 636942204440000000
+      IsInstalled: 0
+    - Name: com.unity.cinemachine
+      DisplayName: Cinemachine
+      _Version: 2.4.0-preview.10
+      Description: "Smart camera tools for passionate creators. \n\nIMPORTANT NOTE:
+        If you are upgrading from the Asset Store version of Cinemachine, delete the
+        Cinemachine asset from your project BEFORE installing this version from the
+        Package Manager."
+      Category: cinematography
+      State: 1
+      IsLatest: 1
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.cinemachine@2.3.4
+        m_IsDirectDependency: 1
+        m_Version: 2.3.4
+        m_Source: 1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.cinemachine@2.3.4
+        m_AssetPath: Packages/com.unity.cinemachine
+        m_Name: com.unity.cinemachine
+        m_DisplayName: Cinemachine
+        m_Category: cinematography
+        m_Type: 
+        m_Description: "Smart camera tools for passionate creators. \n\nIMPORTANT
+          NOTE: If you are upgrading from the Asset Store version of Cinemachine,
+          delete the Cinemachine asset from your project BEFORE installing this version
+          from the Package Manager."
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 2.1.11-beta.1
+          - 2.1.12
+          - 2.1.13
+          - 2.2.0
+          - 2.2.7
+          - 2.2.8
+          - 2.2.9
+          - 2.2.10-preview.3
+          - 2.2.10-preview.4
+          - 2.3.1
+          - 2.3.3
+          - 2.3.4
+          - 2.3.5-preview.3
+          - 2.4.0-preview.3
+          - 2.4.0-preview.4
+          - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
+          m_Compatible:
+          - 2.3.3
+          - 2.3.4
+          - 2.3.5-preview.3
+          - 2.4.0-preview.3
+          - 2.4.0-preview.4
+          - 2.4.0-preview.6
+          - 2.4.0-preview.7
+          - 2.4.0-preview.8
+          - 2.4.0-preview.9
+          - 2.4.0-preview.10
           m_Recommended: 
         m_Dependencies: []
         m_ResolvedDependencies: []
@@ -1147,7 +1615,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -1168,9 +1636,6 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
-          - 1.3.2
-          - 1.3.3
-          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -1225,7 +1690,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -1246,9 +1711,6 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
-          - 1.3.2
-          - 1.3.3
-          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -1303,7 +1765,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -1324,9 +1786,6 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
-          - 1.3.2
-          - 1.3.3
-          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -1381,7 +1840,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -1402,9 +1861,6 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
-          - 1.3.2
-          - 1.3.3
-          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -1459,7 +1915,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.2.16
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.collab-proxy@1.2.16
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.collab-proxy@1.2.16
         m_AssetPath: Packages/com.unity.collab-proxy
         m_Name: com.unity.collab-proxy
         m_DisplayName: Unity Collaborate
@@ -1480,9 +1936,6 @@ MonoBehaviour:
           - 1.2.15
           - 1.2.16
           - 1.2.17-preview.3
-          - 1.3.2
-          - 1.3.3
-          - 1.3.4
           - 2.0.0-preview.6
           - 2.0.0-preview.8
           - 2.0.0-preview.15
@@ -1537,7 +1990,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -1599,7 +2052,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -1661,7 +2114,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -1723,7 +2176,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.0
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ext.nunit@1.0.0
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ext.nunit@1.0.0
         m_AssetPath: Packages/com.unity.ext.nunit
         m_Name: com.unity.ext.nunit
         m_DisplayName: Custom NUnit
@@ -1786,7 +2239,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1807,6 +2260,9 @@ MonoBehaviour:
           - 1.1.2-preview
           - 1.1.2-preview.2
           - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1815,7 +2271,10 @@ MonoBehaviour:
           - 1.1.1
           - 1.1.2-preview.2
           - 1.1.3-preview.1
-          m_Recommended: 1.1.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
           m_Version: 1.0.0
@@ -1858,7 +2317,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1879,6 +2338,9 @@ MonoBehaviour:
           - 1.1.2-preview
           - 1.1.2-preview.2
           - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1887,7 +2349,10 @@ MonoBehaviour:
           - 1.1.1
           - 1.1.2-preview.2
           - 1.1.3-preview.1
-          m_Recommended: 1.1.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
           m_Version: 1.0.0
@@ -1930,7 +2395,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -1951,6 +2416,9 @@ MonoBehaviour:
           - 1.1.2-preview
           - 1.1.2-preview.2
           - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -1959,7 +2427,10 @@ MonoBehaviour:
           - 1.1.1
           - 1.1.2-preview.2
           - 1.1.3-preview.1
-          m_Recommended: 1.1.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
           m_Version: 1.0.0
@@ -2002,7 +2473,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -2023,6 +2494,9 @@ MonoBehaviour:
           - 1.1.2-preview
           - 1.1.2-preview.2
           - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -2031,7 +2505,10 @@ MonoBehaviour:
           - 1.1.1
           - 1.1.2-preview.2
           - 1.1.3-preview.1
-          m_Recommended: 1.1.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
           m_Version: 1.0.0
@@ -2064,7 +2541,7 @@ MonoBehaviour:
       Type: 
       Origin: 1
       Errors: []
-      IsVerified: 1
+      IsVerified: 0
       Author: Unity Technologies Inc.
       IsDiscoverable: 1
       Samples: []
@@ -2074,7 +2551,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -2095,6 +2572,9 @@ MonoBehaviour:
           - 1.1.2-preview
           - 1.1.2-preview.2
           - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -2103,7 +2583,10 @@ MonoBehaviour:
           - 1.1.1
           - 1.1.2-preview.2
           - 1.1.3-preview.1
-          m_Recommended: 1.1.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
           m_Version: 1.0.0
@@ -2146,7 +2629,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -2167,6 +2650,9 @@ MonoBehaviour:
           - 1.1.2-preview
           - 1.1.2-preview.2
           - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -2175,7 +2661,10 @@ MonoBehaviour:
           - 1.1.1
           - 1.1.2-preview.2
           - 1.1.3-preview.1
-          m_Recommended: 1.1.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
           m_Version: 1.0.0
@@ -2203,7 +2692,7 @@ MonoBehaviour:
         discovery of installations, etc.
       Category: 
       State: 1
-      IsLatest: 1
+      IsLatest: 0
       Group: Packages
       Type: 
       Origin: 1
@@ -2218,7 +2707,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.0
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
         m_AssetPath: Packages/com.unity.ide.rider
         m_Name: com.unity.ide.rider
         m_DisplayName: Rider Editor
@@ -2239,6 +2728,9 @@ MonoBehaviour:
           - 1.1.2-preview
           - 1.1.2-preview.2
           - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
           m_Compatible:
           - 1.0.2
           - 1.0.6
@@ -2247,7 +2739,244 @@ MonoBehaviour:
           - 1.1.1
           - 1.1.2-preview.2
           - 1.1.3-preview.1
-          m_Recommended: 1.1.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Recommended: 1.1.4
+        m_Dependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_Keywords: []
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637001065180000000
+      IsInstalled: 0
+    - Name: com.unity.ide.rider
+      DisplayName: Rider Editor
+      _Version: 1.1.4-preview
+      Description: Code editor integration for supporting Rider as code editor for
+        unity. Adds support for generating csproj files for code completion, auto
+        discovery of installations, etc.
+      Category: 
+      State: 1
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.ide.rider@1.1.0
+        m_IsDirectDependency: 1
+        m_Version: 1.1.0
+        m_Source: 1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_AssetPath: Packages/com.unity.ide.rider
+        m_Name: com.unity.ide.rider
+        m_DisplayName: Rider Editor
+        m_Category: 
+        m_Type: 
+        m_Description: Code editor integration for supporting Rider as code editor
+          for unity. Adds support for generating csproj files for code completion,
+          auto discovery of installations, etc.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Compatible:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Recommended: 1.1.4
+        m_Dependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_Keywords: []
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637001065180000000
+      IsInstalled: 0
+    - Name: com.unity.ide.rider
+      DisplayName: Rider Editor
+      _Version: 1.1.4
+      Description: Code editor integration for supporting Rider as code editor for
+        unity. Adds support for generating csproj files for code completion, auto
+        discovery of installations, etc.
+      Category: 
+      State: 1
+      IsLatest: 0
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 1
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.ide.rider@1.1.0
+        m_IsDirectDependency: 1
+        m_Version: 1.1.0
+        m_Source: 1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_AssetPath: Packages/com.unity.ide.rider
+        m_Name: com.unity.ide.rider
+        m_DisplayName: Rider Editor
+        m_Category: 
+        m_Type: 
+        m_Description: Code editor integration for supporting Rider as code editor
+          for unity. Adds support for generating csproj files for code completion,
+          auto discovery of installations, etc.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Compatible:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Recommended: 1.1.4
+        m_Dependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_ResolvedDependencies:
+        - m_Name: com.unity.ext.nunit
+          m_Version: 1.0.0
+        m_Keywords: []
+        m_Author:
+          m_Name: 
+          m_Email: 
+          m_Url: 
+        m_HasRegistry: 1
+        m_Registry:
+          m_Name: 
+          m_Url: https://packages.unity.com
+          m_IsDefault: 1
+        m_HideInEditor: 1
+        m_DatePublishedTicks: 637001065180000000
+      IsInstalled: 0
+    - Name: com.unity.ide.rider
+      DisplayName: Rider Editor
+      _Version: 1.2.0-preview
+      Description: Code editor integration for supporting Rider as code editor for
+        unity. Adds support for generating csproj files for code completion, auto
+        discovery of installations, etc.
+      Category: 
+      State: 1
+      IsLatest: 1
+      Group: Packages
+      Type: 
+      Origin: 1
+      Errors: []
+      IsVerified: 0
+      Author: Unity Technologies Inc.
+      IsDiscoverable: 1
+      Samples: []
+      HasFullFetch: 0
+      Info:
+        m_PackageId: com.unity.ide.rider@1.1.0
+        m_IsDirectDependency: 1
+        m_Version: 1.1.0
+        m_Source: 1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.rider@1.1.0
+        m_AssetPath: Packages/com.unity.ide.rider
+        m_Name: com.unity.ide.rider
+        m_DisplayName: Rider Editor
+        m_Category: 
+        m_Type: 
+        m_Description: Code editor integration for supporting Rider as code editor
+          for unity. Adds support for generating csproj files for code completion,
+          auto discovery of installations, etc.
+        m_Status: 4
+        m_Errors: []
+        m_Versions:
+          m_All:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Compatible:
+          - 1.0.2
+          - 1.0.6
+          - 1.0.8
+          - 1.1.0
+          - 1.1.1
+          - 1.1.2-preview.2
+          - 1.1.3-preview.1
+          - 1.1.4-preview
+          - 1.1.4
+          - 1.2.0-preview
+          m_Recommended: 1.1.4
         m_Dependencies:
         - m_Name: com.unity.ext.nunit
           m_Version: 1.0.0
@@ -2290,7 +3019,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2355,7 +3084,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2420,7 +3149,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2485,7 +3214,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2550,7 +3279,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2615,7 +3344,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.1.3
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.ide.vscode@1.1.3
         m_AssetPath: Packages/com.unity.ide.vscode
         m_Name: com.unity.ide.vscode
         m_DisplayName: Visual Studio Code Editor
@@ -2739,7 +3468,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -2848,7 +3577,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -2957,7 +3686,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3066,7 +3795,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3175,7 +3904,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3284,7 +4013,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3393,7 +4122,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3502,7 +4231,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3611,7 +4340,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3720,7 +4449,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3829,7 +4558,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -3938,7 +4667,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4047,7 +4776,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4156,7 +4885,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4265,7 +4994,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4374,7 +5103,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4483,7 +5212,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4592,7 +5321,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4701,7 +5430,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4810,7 +5539,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -4919,7 +5648,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -5028,7 +5757,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -5137,7 +5866,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -5246,7 +5975,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.1.7
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.postprocessing@2.1.7
         m_AssetPath: Packages/com.unity.postprocessing
         m_Name: com.unity.postprocessing
         m_DisplayName: Post Processing
@@ -5571,7 +6300,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -5663,7 +6392,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -5755,7 +6484,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -5847,7 +6576,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -5939,7 +6668,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6031,7 +6760,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6123,7 +6852,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6215,7 +6944,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6307,7 +7036,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6399,7 +7128,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6491,7 +7220,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6583,7 +7312,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6675,7 +7404,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6767,7 +7496,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6859,7 +7588,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -6951,7 +7680,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7043,7 +7772,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7135,7 +7864,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 1.0.13
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.test-framework@1.0.13
         m_AssetPath: Packages/com.unity.test-framework
         m_Name: com.unity.test-framework
         m_DisplayName: Test Framework
@@ -7253,7 +7982,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7311,14 +8040,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -7341,13 +8067,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -7419,7 +8143,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7477,14 +8201,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -7507,13 +8228,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -7585,7 +8304,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7643,14 +8362,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -7673,13 +8389,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -7751,7 +8465,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7809,14 +8523,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -7839,13 +8550,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -7917,7 +8626,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -7975,14 +8684,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -8005,13 +8711,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -8083,7 +8787,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8141,14 +8845,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -8171,13 +8872,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -8249,7 +8948,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8307,14 +9006,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -8337,13 +9033,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -8415,7 +9109,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8473,14 +9167,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -8503,13 +9194,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -8581,7 +9270,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8639,14 +9328,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -8669,13 +9355,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -8747,7 +9431,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8805,14 +9489,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -8835,13 +9516,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -8913,7 +9592,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -8971,14 +9650,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -9001,13 +9677,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -9079,7 +9753,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9137,14 +9811,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -9167,13 +9838,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -9245,7 +9914,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9303,14 +9972,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -9333,13 +9999,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -9411,7 +10075,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9469,14 +10133,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -9499,13 +10160,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -9577,7 +10236,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9635,14 +10294,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -9665,13 +10321,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -9743,7 +10397,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -9801,14 +10455,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -9831,13 +10482,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -10458,7 +11107,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -10516,14 +11165,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -10546,179 +11192,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          m_Recommended: 2.0.1
-        m_Dependencies:
-        - m_Name: com.unity.ugui
-          m_Version: 1.0.0
-        m_ResolvedDependencies:
-        - m_Name: com.unity.ugui
-          m_Version: 1.0.0
-        m_Keywords:
-        - TextMeshPro
-        - TextMesh Pro
-        - Text
-        - SDF
-        m_Author:
-          m_Name: 
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: 
-          m_Url: https://packages.unity.com
-          m_IsDefault: 1
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 636933709630000000
-      IsInstalled: 0
-    - Name: com.unity.textmeshpro
-      DisplayName: TextMesh Pro
-      _Version: 1.5.0-preview.3
-      Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s the
-        perfect replacement for Unity''s UI Text and the legacy Text Mesh.
-
-
-        Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
-        along with a set of custom shaders; delivering substantial visual quality
-        improvements while giving users incredible flexibility when it comes to text
-        styling and texturing.
-
-
-        TextMesh Pro provides Improved Control over text formatting and layout with
-        features like character, word, line and paragraph spacing, kerning, justified
-        text, Links, over 30 Rich Text Tags available, support for Multi Font & Sprites,
-        Custom Styles and more.
-
-
-        Great performance. Since the geometry created by TextMesh Pro uses two triangles
-        per character just like Unity''s text components, this improved visual quality
-        and flexibility comes at no additional performance cost.
-
-
-
-        Special Notes:
-
-        ==========
-
-        This release requires .Net 4.x Scripting Runtime'
-      Category: Text Rendering
-      State: 1
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Unity Technologies Inc.
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.unity.textmeshpro@2.0.1
-        m_IsDirectDependency: 1
-        m_Version: 2.0.1
-        m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
-        m_AssetPath: Packages/com.unity.textmeshpro
-        m_Name: com.unity.textmeshpro
-        m_DisplayName: TextMesh Pro
-        m_Category: Text Rendering
-        m_Type: 
-        m_Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s
-          the perfect replacement for Unity''s UI Text and the legacy Text Mesh.
-
-
-          Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
-          along with a set of custom shaders; delivering substantial visual quality
-          improvements while giving users incredible flexibility when it comes to
-          text styling and texturing.
-
-
-          TextMesh Pro provides Improved Control over text formatting and layout with
-          features like character, word, line and paragraph spacing, kerning, justified
-          text, Links, over 30 Rich Text Tags available, support for Multi Font &
-          Sprites, Custom Styles and more.
-
-
-          Great performance. Since the geometry created by TextMesh Pro uses two triangles
-          per character just like Unity''s text components, this improved visual quality
-          and flexibility comes at no additional performance cost.
-
-
-
-          Special Notes:
-
-          ==========
-
-          This release requires .Net 4.x Scripting Runtime'
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.2
-          - 1.0.21
-          - 1.0.23
-          - 1.0.25
-          - 1.0.26
-          - 1.1.0
-          - 1.2.0
-          - 1.2.1
-          - 1.2.2
-          - 1.2.3
-          - 1.2.4
-          - 1.3.0-preview
-          - 1.3.0
-          - 1.4.0-preview.1b
-          - 1.4.0-preview.2a
-          - 1.4.0-preview.3a
-          - 1.4.0
-          - 1.4.1-preview.1
-          - 1.4.1
-          - 1.5.0-preview.1
-          - 1.5.0-preview.2
-          - 1.5.0-preview.3
-          - 2.0.0
-          - 2.0.1-preview.1
-          - 2.0.1
-          - 2.1.0-preview.1
-          - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
-          m_Compatible:
-          - 0.1.2
-          - 1.0.21
-          - 1.0.23
-          - 1.0.25
-          - 1.0.26
-          - 1.1.0
-          - 1.2.0
-          - 1.2.1
-          - 1.2.2
-          - 1.2.3
-          - 1.2.4
-          - 1.3.0-preview
-          - 1.3.0
-          - 1.4.0-preview.1b
-          - 1.4.0-preview.2a
-          - 1.4.0-preview.3a
-          - 1.4.0
-          - 1.4.1-preview.1
-          - 1.4.1
-          - 1.5.0-preview.1
-          - 1.5.0-preview.2
-          - 1.5.0-preview.3
-          - 2.0.0
-          - 2.0.1-preview.1
-          - 2.0.1
-          - 2.1.0-preview.1
-          - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -11084,7 +11562,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11142,14 +11620,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -11172,13 +11647,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -11373,172 +11846,6 @@ MonoBehaviour:
         This release requires .Net 4.x Scripting Runtime'
       Category: Text Rendering
       State: 1
-      IsLatest: 0
-      Group: Packages
-      Type: 
-      Origin: 1
-      Errors: []
-      IsVerified: 0
-      Author: Unity Technologies Inc.
-      IsDiscoverable: 1
-      Samples: []
-      HasFullFetch: 0
-      Info:
-        m_PackageId: com.unity.textmeshpro@2.0.1
-        m_IsDirectDependency: 1
-        m_Version: 2.0.1
-        m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
-        m_AssetPath: Packages/com.unity.textmeshpro
-        m_Name: com.unity.textmeshpro
-        m_DisplayName: TextMesh Pro
-        m_Category: Text Rendering
-        m_Type: 
-        m_Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s
-          the perfect replacement for Unity''s UI Text and the legacy Text Mesh.
-
-
-          Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
-          along with a set of custom shaders; delivering substantial visual quality
-          improvements while giving users incredible flexibility when it comes to
-          text styling and texturing.
-
-
-          TextMesh Pro provides Improved Control over text formatting and layout with
-          features like character, word, line and paragraph spacing, kerning, justified
-          text, Links, over 30 Rich Text Tags available, support for Multi Font &
-          Sprites, Custom Styles and more.
-
-
-          Great performance. Since the geometry created by TextMesh Pro uses two triangles
-          per character just like Unity''s text components, this improved visual quality
-          and flexibility comes at no additional performance cost.
-
-
-
-          Special Notes:
-
-          ==========
-
-          This release requires .Net 4.x Scripting Runtime'
-        m_Status: 4
-        m_Errors: []
-        m_Versions:
-          m_All:
-          - 0.1.2
-          - 1.0.21
-          - 1.0.23
-          - 1.0.25
-          - 1.0.26
-          - 1.1.0
-          - 1.2.0
-          - 1.2.1
-          - 1.2.2
-          - 1.2.3
-          - 1.2.4
-          - 1.3.0-preview
-          - 1.3.0
-          - 1.4.0-preview.1b
-          - 1.4.0-preview.2a
-          - 1.4.0-preview.3a
-          - 1.4.0
-          - 1.4.1-preview.1
-          - 1.4.1
-          - 1.5.0-preview.1
-          - 1.5.0-preview.2
-          - 1.5.0-preview.3
-          - 2.0.0
-          - 2.0.1-preview.1
-          - 2.0.1
-          - 2.1.0-preview.1
-          - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
-          m_Compatible:
-          - 0.1.2
-          - 1.0.21
-          - 1.0.23
-          - 1.0.25
-          - 1.0.26
-          - 1.1.0
-          - 1.2.0
-          - 1.2.1
-          - 1.2.2
-          - 1.2.3
-          - 1.2.4
-          - 1.3.0-preview
-          - 1.3.0
-          - 1.4.0-preview.1b
-          - 1.4.0-preview.2a
-          - 1.4.0-preview.3a
-          - 1.4.0
-          - 1.4.1-preview.1
-          - 1.4.1
-          - 1.5.0-preview.1
-          - 1.5.0-preview.2
-          - 1.5.0-preview.3
-          - 2.0.0
-          - 2.0.1-preview.1
-          - 2.0.1
-          - 2.1.0-preview.1
-          - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          m_Recommended: 2.0.1
-        m_Dependencies:
-        - m_Name: com.unity.ugui
-          m_Version: 1.0.0
-        m_ResolvedDependencies:
-        - m_Name: com.unity.ugui
-          m_Version: 1.0.0
-        m_Keywords:
-        - TextMeshPro
-        - TextMesh Pro
-        - Text
-        - SDF
-        m_Author:
-          m_Name: 
-          m_Email: 
-          m_Url: 
-        m_HasRegistry: 1
-        m_Registry:
-          m_Name: 
-          m_Url: https://packages.unity.com
-          m_IsDefault: 1
-        m_HideInEditor: 1
-        m_DatePublishedTicks: 636933709630000000
-      IsInstalled: 0
-    - Name: com.unity.textmeshpro
-      DisplayName: TextMesh Pro
-      _Version: 2.1.0-preview.3
-      Description: 'TextMesh Pro is the ultimate text solution for Unity. It''s the
-        perfect replacement for Unity''s UI Text and the legacy Text Mesh.
-
-
-        Powerful and easy to use, TextMesh Pro uses Advanced Text Rendering techniques
-        along with a set of custom shaders; delivering substantial visual quality
-        improvements while giving users incredible flexibility when it comes to text
-        styling and texturing.
-
-
-        TextMesh Pro provides Improved Control over text formatting and layout with
-        features like character, word, line and paragraph spacing, kerning, justified
-        text, Links, over 30 Rich Text Tags available, support for Multi Font & Sprites,
-        Custom Styles and more.
-
-
-        Great performance. Since the geometry created by TextMesh Pro uses two triangles
-        per character just like Unity''s text components, this improved visual quality
-        and flexibility comes at no additional performance cost.
-
-
-
-        Special Notes:
-
-        ==========
-
-        This release requires .Net 4.x Scripting Runtime'
-      Category: Text Rendering
-      State: 1
       IsLatest: 1
       Group: Packages
       Type: 
@@ -11554,7 +11861,7 @@ MonoBehaviour:
         m_IsDirectDependency: 1
         m_Version: 2.0.1
         m_Source: 1
-        m_ResolvedPath: D:\logiciel\jeux\topdownclement2\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
+        m_ResolvedPath: D:\ProjectUnity\HotlineMiami\HotlineMiami\Library\PackageCache\com.unity.textmeshpro@2.0.1
         m_AssetPath: Packages/com.unity.textmeshpro
         m_Name: com.unity.textmeshpro
         m_DisplayName: TextMesh Pro
@@ -11612,14 +11919,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
-          - 3.0.0-preview.3
           m_Compatible:
           - 0.1.2
           - 1.0.21
@@ -11642,13 +11946,11 @@ MonoBehaviour:
           - 1.4.1
           - 1.5.0-preview.1
           - 1.5.0-preview.2
-          - 1.5.0-preview.3
           - 2.0.0
           - 2.0.1-preview.1
           - 2.0.1
           - 2.1.0-preview.1
           - 2.1.0-preview.2
-          - 2.1.0-preview.3
           m_Recommended: 2.0.1
         m_Dependencies:
         - m_Name: com.unity.ugui
@@ -103610,7 +103912,7 @@ MonoBehaviour:
   m_MaxSize: {x: 2048, y: 2048}
   m_TitleContent:
     m_Text: Asset Store
-    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -8693916549880196297, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -103636,15 +103938,15 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Scene
-    m_Image: {fileID: 2318424515335265636, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 553
+    y: 558
     width: 1127
-    height: 448
+    height: 453
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: de296e384282b33429b7e17b7340df5b
@@ -103735,7 +104037,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Timeline
-    m_Image: {fileID: 2263789160270303489, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -9173288242387172643, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -103775,7 +104077,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Animation
-    m_Image: {fileID: 1561878555887300916, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -8166618308981325432, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -103804,7 +104106,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Hierarchy
-    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -103812,13 +104114,13 @@ MonoBehaviour:
     x: 1127
     y: 73
     width: 231
-    height: 594
+    height: 600
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ea3c0000
-      m_LastClickedID: 15594
+      m_SelectedIDs: 
+      m_LastClickedID: 0
       m_ExpandedIDs: 54f4ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -103859,15 +104161,15 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
     m_Text: Project
-    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1156
-    y: 693
-    width: 483
-    height: 318
+    x: 1127
+    y: 692
+    width: 231
+    height: 319
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -103881,7 +104183,8 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Scripts/Ennemy
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -103918,10 +104221,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 71}
-    m_SelectedIDs: 62360000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000078360000d0370000d43700000e3800002a3800008c3a0000a03a0000083b0000
+    m_ExpandedIDs: ffffffff00000000783600008c3a0000a03a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -103946,8 +104249,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 62360000
-    m_LastClickedInstanceID: 13922
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
@@ -103993,15 +104296,15 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Console
-    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 1127
-    y: 686
+    y: 692
     width: 231
-    height: 315
+    height: 319
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &22
 MonoBehaviour:
@@ -104019,7 +104322,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Inspector
-    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -104027,7 +104330,7 @@ MonoBehaviour:
     x: 1360
     y: 73
     width: 558
-    height: 928
+    height: 938
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -104057,7 +104360,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Navigation
-    m_Image: {fileID: 7874161543223113035, guid: 0000000000000000d000000000000000,
+    m_Image: {fileID: 1087843850482249999, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:

@@ -24,7 +24,7 @@ public class LogicOfBullet : MonoBehaviour
     {
         if ( other.gameObject.tag == "Ennemy")
         {
-            other.gameObject.GetComponent<test>().TakeDamage(damage);
+            other.gameObject.GetComponent<EnnemyScript>().TakeDamage(damage);
             //Destroy(other.gameObject);
         }
         
