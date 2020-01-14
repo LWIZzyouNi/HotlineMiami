@@ -10,9 +10,22 @@ public class PlayerController : MonoBehaviour
     public bool isInLife;
     public GameObject bullet;
     Vector2 bulletPos;
-    public float fireRate = 0.0f;
+    public float actualFireRate = 0.0f;
     float nextFire = 0.0f;
 
+    public static PlayerController s_Singleton;
+
+    private void Awake()
+    {
+        if (s_Singleton != null)
+        {
+            Destroy(gameObject);
+        }
+        else
+        {
+            s_Singleton = this;
+        }
+    }
 
     // Start is called before the first frame update
     void Start()
@@ -32,7 +45,7 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetMouseButton(0) && Time.time > nextFire)
         {
-            nextFire = Time.time + fireRate;
+            nextFire = Time.time + actualFireRate;
            
         }
     }
